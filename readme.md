@@ -7,7 +7,11 @@
 ## **Resumen:**
 ### Mi nombre es Celeste Cordoba, tengo 18 años y soy de San Francisco Córdoba. Actualmente, me encuentro cursando mi último año en la institución ProA técnica, la cual al finalizar me otorgará el título de la tecnicatura en programación.
 
-## **Programación:**
+## **Educación:**
+### 2017 - 2023: Secundaria ProA Técnica
+### 2011 - 2016: Primaria 
+
+## **Programación 💻:**
 ### Tengo conocimiento en los lenguajes de programación: 
 * C++
 * Python
@@ -18,7 +22,7 @@
 * HTML
 * CSS (hoja de estilos)
 
-## **Habilidades:**
+## **Habilidades💙:**
 ### Soy una persona **organizada, planificadora y meticulosa**, tengo gran **capacidad de aprendizaje**, manteniendo un constante desarrollo de conocimiento. 
 
 ## **Idiomas:**
