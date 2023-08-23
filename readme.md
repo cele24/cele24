@@ -1,4 +1,4 @@
-# &nbsp; **Hola! soy Celeste** 😄:
+# &nbsp; **Hola! soy Celeste** 😄
 ## **Contacto:** 
 - *Correo:* cele.cba24@gmail.com 
 - *Celular:* 3564 - 369693
